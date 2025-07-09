@@ -14,7 +14,7 @@ The controller reads three digital Hall sensor inputs (`hallA`, `hallB`, `hallC`
 
 > - `Z` = High impedance (tri-state)
 > - `0` = Driven low
-> - `PWM` = Driven by PWM signal (toggle high/low)
+> - `PWM` = Driven by PWM signal (Driven high '1')
 
 ---------------------------------------------------------------------------------------------------------------
 
